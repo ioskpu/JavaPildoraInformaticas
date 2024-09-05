@@ -1,0 +1,17 @@
+
+public class Declariones_Operadores {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int a = 5;
+		
+		int b;
+		
+		b = 10;
+		
+		int c = a+b;
+
+	}
+
+}
