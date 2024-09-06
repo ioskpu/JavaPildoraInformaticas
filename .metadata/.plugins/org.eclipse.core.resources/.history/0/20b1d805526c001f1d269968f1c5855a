@@ -29,16 +29,6 @@ public class Declariones_Operadores {
 		double f = d/e; //operador divicion se usa tipo de datos double para manejar los decimales
 		
 		System.out.println("el valor de la variable al dividir es: " + f);
-		
-		//operador de resta
-		
-		double g = d-e;
-		
-		System.out.println("el valor de g va ser la resta ahora de las variables d y e: " + g);
-		
-		g -= 2; 
-		
-		System.out.println("aca hacemos decremento en 2 de la variable g: " + g);
 	}
 
 }
